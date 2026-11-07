@@ -1,0 +1,3 @@
+DSA Manager Task Progress Edition
+Version: 2.0.0-task-progress
+Service Worker cache: v9
